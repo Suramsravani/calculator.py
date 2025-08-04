@@ -22,7 +22,7 @@ A simple Python command-line calculator that supports basic arithmetic operation
 
 ### Prerequisites
 
-- Python installed (version 3.x)
+- Python installed (version 3.13)
 
 ### How to Run
 
