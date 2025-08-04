@@ -1,0 +1,49 @@
+Select an operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice (1-5): 2
+Enter first number: 10
+Enter second number: 4
+Result: 6.0
+
+
+Simple Calculator
+Select an operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice (1-5): 3
+Enter first number: 7
+Enter second number: 6
+Result: 42.0
+
+
+Simple Calculator
+Select an operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice (1-5): 4
+Enter first number: 20
+Enter second number: 5
+Result: 4.0
+
+
+Simple Calculator
+Select an operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice (1-5): 1
+Enter first number: 3
+Enter second number: 5
+Result: 8.0
